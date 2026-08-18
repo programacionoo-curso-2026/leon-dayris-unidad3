@@ -411,3 +411,158 @@ sync.(*WaitGroup).Wait(0x3aff2b6e0b0)
 main.main()
         C:/Users/diego/OneDrive/Desktop/UNIDAD 3 - DAYRIS/leon-dayris-unidad3/taller22-goroutines/main.go:28 +0x1af
 exit status 2
+
+## Iteraccion 8
+Procesando orden 2 en 496ms
+Actualizando orden 3 con estado: Despachando
+
+--- Reporte Estado de las Ordenes ---
+Orden 1 Procesando
+Orden 2 Procesando
+Orden 3 Despachando
+Orden 4 pending
+Orden 5 pending
+Orden 6 pending
+Orden 7 pending
+Orden 8 pending
+Orden 9 pending
+Orden 10 pending
+Orden 11 pending
+Orden 12 pending
+Orden 13 pending
+Orden 14 pending
+Orden 15 pending
+Orden 16 pending
+Orden 17 pending
+Orden 18 pending
+Orden 19 pending
+Orden 20 pending
+---------------------------------------
+Procesando orden 3 en 97ms
+Actualizando orden 4 con estado: Procesando
+Procesando orden 4 en 206ms
+Procesando orden 5 en 117ms
+Actualizando orden 5 con estado: Procesando
+Procesando orden 6 en 53ms
+
+--- Reporte Estado de las Ordenes ---
+Orden 1 Procesando
+Orden 2 Procesando
+Orden 3 Despachando
+Orden 4 Procesando
+Orden 5 Procesando
+Orden 6 pending
+Orden 7 pending
+Orden 8 pending
+Orden 9 pending
+Orden 10 pending
+Orden 11 pending
+Orden 12 pending
+Orden 13 pending
+Orden 14 pending
+Orden 15 pending
+Orden 16 pending
+Orden 17 pending
+Orden 18 pending
+Orden 19 pending
+Orden 20 pending
+---------------------------------------
+Procesando orden 7 en 339ms
+Actualizando orden 6 con estado: Procesando
+Procesando orden 8 en 181ms
+Actualizando orden 7 con estado: Entregando
+Procesando orden 9 en 101ms
+Procesando orden 10 en 280ms
+Actualizando orden 8 con estado: Procesando
+Procesando orden 11 en 310ms
+
+--- Reporte Estado de las Ordenes ---
+Orden 1 Procesando
+Orden 2 Procesando
+Orden 3 Despachando
+Orden 4 Procesando
+Orden 5 Procesando
+Orden 6 Procesando
+Orden 7 Entregando
+Orden 8 Procesando
+Orden 9 pending
+Orden 10 pending
+Orden 11 pending
+Orden 12 pending
+Orden 13 pending
+Orden 14 pending
+Orden 15 pending
+Orden 16 pending
+Orden 17 pending
+Orden 18 pending
+Orden 19 pending
+Orden 20 pending
+---------------------------------------
+Actualizando orden 9 con estado: Entregando
+Procesando orden 12 en 410ms
+Procesando orden 13 en 330ms
+Actualizando orden 10 con estado: Despachando
+Procesando orden 14 en 276ms
+Procesando orden 15 en 165ms
+Actualizando orden 11 con estado: Procesando
+
+--- Reporte Estado de las Ordenes ---
+Orden 1 Procesando
+Orden 2 Procesando
+Orden 3 Despachando
+Orden 4 Procesando
+Orden 5 Procesando
+Orden 6 Procesando
+Orden 7 Entregando
+Orden 8 Procesando
+Orden 9 Entregando
+Orden 10 Despachando
+Orden 11 Procesando
+Orden 12 pending
+Orden 13 pending
+Orden 14 pending
+Orden 15 pending
+Orden 16 pending
+Orden 17 pending
+Orden 18 pending
+Orden 19 pending
+Orden 20 pending
+---------------------------------------
+Procesando orden 16 en 160ms
+Procesando orden 17 en 384ms
+Actualizando orden 12 con estado: Entregando
+Actualizando orden 13 con estado: Despachando
+Actualizando orden 14 con estado: Despachando
+Procesando orden 18 en 318ms
+Actualizando orden 15 con estado: Despachando
+Procesando orden 19 en 219ms
+Procesando orden 20 en 40ms
+Actualizando orden 16 con estado: Procesando
+
+--- Reporte Estado de las Ordenes ---
+Orden 1 Procesando
+Orden 2 Procesando
+Orden 3 Despachando
+Orden 4 Procesando
+Orden 5 Procesando
+Orden 6 Procesando
+Orden 7 Entregando
+Orden 8 Procesando
+Orden 9 Entregando
+Orden 10 Despachando
+Orden 11 Procesando
+Orden 12 Entregando
+Orden 13 Despachando
+Orden 14 Despachando
+Orden 15 Despachando
+Orden 16 Procesando
+Orden 17 pending
+Orden 18 pending
+Orden 19 pending
+Orden 20 pending
+---------------------------------------
+Actualizando orden 17 con estado: Despachando
+Actualizando orden 18 con estado: Procesando
+Actualizando orden 19 con estado: Procesando
+Actualizando orden 20 con estado: Despachando
+Todas las operaciones completadas. Saliendo
