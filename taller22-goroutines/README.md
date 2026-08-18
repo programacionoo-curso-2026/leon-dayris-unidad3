@@ -244,3 +244,170 @@ func main() {
 
 ## Iteraccion 6
 Todas las operaciones completadas. Saliendo
+
+## Iteraccion 7
+Procesando orden 1 en 202ms
+Actualizando orden 1 con estado: Despachando
+Actualizando orden 2 con estado: Procesando
+Procesando orden 2 en 132ms
+Procesando orden 3 en 418ms
+Procesando orden 4 en 496ms
+
+--- Reporte Estado de las Ordenes ---
+Orden 1 Despachando
+Orden 2 Procesando
+Orden 3 pending
+Orden 4 pending
+Orden 5 pending
+Orden 6 pending
+Orden 7 pending
+Orden 8 pending
+Orden 9 pending
+Orden 10 pending
+Orden 11 pending
+Orden 12 pending
+Orden 13 pending
+Orden 14 pending
+Orden 15 pending
+Orden 16 pending
+Orden 17 pending
+Orden 18 pending
+Orden 19 pending
+Orden 20 pending
+---------------------------------------
+Actualizando orden 3 con estado: Procesando
+Actualizando orden 4 con estado: Procesando
+Procesando orden 5 en 477ms
+Procesando orden 6 en 411ms
+Actualizando orden 5 con estado: Entregando
+Actualizando orden 6 con estado: Despachando
+Actualizando orden 7 con estado: Procesando
+Procesando orden 7 en 53ms
+Actualizando orden 8 con estado: Despachando
+Procesando orden 8 en 320ms
+
+--- Reporte Estado de las Ordenes ---
+Orden 1 Despachando
+Orden 2 Procesando
+Orden 3 Procesando
+Orden 4 Procesando
+Orden 5 Entregando
+Orden 6 Despachando
+Orden 7 Procesando
+Orden 8 Despachando
+Orden 9 pending
+Orden 10 pending
+Orden 11 pending
+Orden 12 pending
+Orden 13 pending
+Orden 14 pending
+Orden 15 pending
+Orden 16 pending
+Orden 17 pending
+Orden 18 pending
+Orden 19 pending
+Orden 20 pending
+---------------------------------------
+Actualizando orden 9 con estado: Procesando
+Procesando orden 9 en 255ms
+Actualizando orden 10 con estado: Entregando
+Procesando orden 10 en 108ms
+
+--- Reporte Estado de las Ordenes ---
+Orden 1 Despachando
+Orden 2 Procesando
+Orden 3 Procesando
+Orden 4 Procesando
+Orden 5 Entregando
+Orden 6 Despachando
+Orden 7 Procesando
+Orden 8 Despachando
+Orden 9 Procesando
+Orden 10 Entregando
+Orden 11 pending
+Orden 12 pending
+Orden 13 pending
+Orden 14 pending
+Orden 15 pending
+Orden 16 pending
+Orden 17 pending
+Orden 18 pending
+Orden 19 pending
+Orden 20 pending
+---------------------------------------
+Actualizando orden 11 con estado: Despachando
+Procesando orden 11 en 297ms
+Procesando orden 12 en 462ms
+Actualizando orden 12 con estado: Entregando
+Actualizando orden 13 con estado: Entregando
+Actualizando orden 14 con estado: Despachando
+Procesando orden 13 en 491ms
+
+--- Reporte Estado de las Ordenes ---
+Orden 1 Despachando
+Orden 2 Procesando
+Orden 3 Procesando
+Orden 4 Procesando
+Orden 5 Entregando
+Orden 6 Despachando
+Orden 7 Procesando
+Orden 8 Despachando
+Orden 9 Procesando
+Orden 10 Entregando
+Orden 11 Despachando
+Orden 12 Entregando
+Orden 13 Entregando
+Orden 14 Despachando
+Orden 15 pending
+Orden 16 pending
+Orden 17 pending
+Orden 18 pending
+Orden 19 pending
+Orden 20 pending
+---------------------------------------
+Actualizando orden 15 con estado: Entregando
+Procesando orden 14 en 262ms
+Procesando orden 15 en 270ms
+Actualizando orden 16 con estado: Entregando
+Actualizando orden 17 con estado: Procesando
+Procesando orden 16 en 37ms
+Actualizando orden 18 con estado: Despachando
+Procesando orden 17 en 116ms
+Procesando orden 18 en 358ms
+
+--- Reporte Estado de las Ordenes ---
+Orden 1 Despachando
+Orden 2 Procesando
+Orden 3 Procesando
+Orden 4 Procesando
+Orden 5 Entregando
+Orden 6 Despachando
+Orden 7 Procesando
+Orden 8 Despachando
+Orden 9 Procesando
+Orden 10 Entregando
+Orden 11 Despachando
+Orden 12 Entregando
+Orden 13 Entregando
+Orden 14 Despachando
+Orden 15 Entregando
+Orden 16 Entregando
+Orden 17 Procesando
+Orden 18 Despachando
+Orden 19 pending
+Orden 20 pending
+---------------------------------------
+Actualizando orden 19 con estado: Despachando
+Procesando orden 19 en 365ms
+Actualizando orden 20 con estado: Entregando
+Procesando orden 20 en 465ms
+fatal error: all goroutines are asleep - deadlock!
+
+goroutine 1 [sync.WaitGroup.Wait]:
+sync.runtime_SemacquireWaitGroup(0x3aff2be63c0?, 0x0?)
+        C:/Program Files/Go/src/runtime/sema.go:114 +0x2e
+sync.(*WaitGroup).Wait(0x3aff2b6e0b0)
+        C:/Program Files/Go/src/sync/waitgroup.go:206 +0x85
+main.main()
+        C:/Users/diego/OneDrive/Desktop/UNIDAD 3 - DAYRIS/leon-dayris-unidad3/taller22-goroutines/main.go:28 +0x1af
+exit status 2
