@@ -69,3 +69,162 @@ Actualizando orden 19 con estado: Entregando
 Actualizando orden 20 con estado: Despachando
 Numeros de ordenes 20
 Todas las operaciones completadas. Finalizando
+
+## Iteraccion 4
+Procesando orden 1 en 46ms
+Procesando orden 2 en 186ms
+Procesando orden 3 en 210ms
+Procesando orden 4 en 284ms
+Procesando orden 5 en 274ms
+Procesando orden 6 en 12ms
+Procesando orden 7 en 171ms
+Procesando orden 8 en 327ms
+Procesando orden 9 en 468ms
+Procesando orden 10 en 498ms
+Procesando orden 11 en 271ms
+Procesando orden 12 en 418ms
+Procesando orden 13 en 169ms
+Procesando orden 14 en 167ms
+Procesando orden 15 en 298ms
+Procesando orden 16 en 273ms
+Procesando orden 17 en 337ms
+Procesando orden 18 en 417ms
+Procesando orden 19 en 34ms
+Procesando orden 20 en 94ms
+Actualizando orden 1 con estado: Despachando
+Actualizando orden 2 con estado: Despachando
+Actualizando orden 3 con estado: Entregando
+Actualizando orden 4 con estado: Despachando
+Actualizando orden 5 con estado: Despachando
+Actualizando orden 6 con estado: Despachando
+Actualizando orden 7 con estado: Despachando
+Actualizando orden 8 con estado: Procesando
+Actualizando orden 9 con estado: Procesando
+Actualizando orden 10 con estado: Despachando
+Actualizando orden 11 con estado: Entregando
+Actualizando orden 12 con estado: Entregando
+Actualizando orden 13 con estado: Procesando
+Actualizando orden 14 con estado: Entregando
+Actualizando orden 15 con estado: Entregando
+Actualizando orden 16 con estado: Procesando
+Actualizando orden 17 con estado: Entregando
+Actualizando orden 18 con estado: Procesando
+Actualizando orden 19 con estado: Entregando
+Actualizando orden 20 con estado: Despachando
+
+--- Reporte Estado de las Ordenes ---
+Orden 1 Despachando
+Orden 2 Despachando
+Orden 3 Entregando
+Orden 4 Despachando
+Orden 5 Despachando
+Orden 6 Despachando
+Orden 7 Despachando
+Orden 8 Procesando
+Orden 9 Procesando
+Orden 10 Despachando
+Orden 11 Entregando
+Orden 12 Entregando
+Orden 13 Procesando
+Orden 14 Entregando
+Orden 15 Entregando
+Orden 16 Procesando
+Orden 17 Entregando
+Orden 18 Procesando
+Orden 19 Entregando
+Orden 20 Despachando
+---------------------------------------
+
+--- Reporte Estado de las Ordenes ---
+Orden 1 Despachando
+Orden 2 Despachando
+Orden 3 Entregando
+Orden 4 Despachando
+Orden 5 Despachando
+Orden 6 Despachando
+Orden 7 Despachando
+Orden 8 Procesando
+Orden 9 Procesando
+Orden 10 Despachando
+Orden 11 Entregando
+Orden 12 Entregando
+Orden 13 Procesando
+Orden 14 Entregando
+Orden 15 Entregando
+Orden 16 Procesando
+Orden 17 Entregando
+Orden 18 Procesando
+Orden 19 Entregando
+Orden 20 Despachando
+---------------------------------------
+
+--- Reporte Estado de las Ordenes ---
+Orden 1 Despachando
+Orden 2 Despachando
+Orden 3 Entregando
+Orden 4 Despachando
+Orden 5 Despachando
+Orden 6 Despachando
+Orden 7 Despachando
+Orden 8 Procesando
+Orden 9 Procesando
+Orden 10 Despachando
+Orden 11 Entregando
+Orden 12 Entregando
+Orden 13 Procesando
+Orden 14 Entregando
+Orden 15 Entregando
+Orden 16 Procesando
+Orden 17 Entregando
+Orden 18 Procesando
+Orden 19 Entregando
+Orden 20 Despachando
+---------------------------------------
+
+--- Reporte Estado de las Ordenes ---
+Orden 1 Despachando
+Orden 2 Despachando
+Orden 3 Entregando
+Orden 4 Despachando
+Orden 5 Despachando
+Orden 6 Despachando
+Orden 7 Despachando
+Orden 8 Procesando
+Orden 9 Procesando
+Orden 10 Despachando
+Orden 11 Entregando
+Orden 12 Entregando
+Orden 13 Procesando
+Orden 14 Entregando
+Orden 15 Entregando
+Orden 16 Procesando
+Orden 17 Entregando
+Orden 18 Procesando
+Orden 19 Entregando
+Orden 20 Despachando
+---------------------------------------
+
+--- Reporte Estado de las Ordenes ---
+Orden 1 Despachando
+Orden 2 Despachando
+Orden 3 Entregando
+Orden 4 Despachando
+Orden 5 Despachando
+Orden 6 Despachando
+Orden 7 Despachando
+Orden 8 Procesando
+Orden 9 Procesando
+Orden 10 Despachando
+Orden 11 Entregando
+Orden 12 Entregando
+Orden 13 Procesando
+Orden 14 Entregando
+Orden 15 Entregando
+Orden 16 Procesando
+Orden 17 Entregando
+Orden 18 Procesando
+Orden 19 Entregando
+Orden 20 Despachando
+---------------------------------------
+Numeros de ordenes 20
+Todas las operaciones completadas. Finalizando
