@@ -25,3 +25,47 @@ Procesando orden 19 en 20ms
 Procesando orden 20 en 409ms
 Numeros de ordenes 20
 Todas las operaciones completadas. Finalizando
+
+## Iteraccion 3
+Procesando orden 1 en 98ms
+Procesando orden 2 en 181ms
+Procesando orden 3 en 263ms
+Procesando orden 4 en 166ms
+Procesando orden 5 en 321ms
+Procesando orden 6 en 429ms
+Procesando orden 7 en 439ms
+Procesando orden 8 en 348ms
+Procesando orden 9 en 84ms
+Procesando orden 10 en 276ms
+Procesando orden 11 en 65ms
+Procesando orden 12 en 353ms
+Procesando orden 13 en 77ms
+Procesando orden 14 en 451ms
+Procesando orden 15 en 404ms
+Procesando orden 16 en 177ms
+Procesando orden 17 en 31ms
+Procesando orden 18 en 139ms
+Procesando orden 19 en 83ms
+Procesando orden 20 en 193ms
+Actualizando orden 1 con estado: Entregando
+Actualizando orden 2 con estado: Procesando
+Actualizando orden 3 con estado: Entregando
+Actualizando orden 4 con estado: Entregando
+Actualizando orden 5 con estado: Despachando
+Actualizando orden 6 con estado: Entregando
+Actualizando orden 7 con estado: Despachando
+Actualizando orden 8 con estado: Entregando
+Actualizando orden 9 con estado: Despachando
+Actualizando orden 10 con estado: Procesando
+Actualizando orden 11 con estado: Procesando
+Actualizando orden 12 con estado: Despachando
+Actualizando orden 13 con estado: Despachando
+Actualizando orden 14 con estado: Entregando
+Actualizando orden 15 con estado: Despachando
+Actualizando orden 16 con estado: Despachando
+Actualizando orden 17 con estado: Procesando
+Actualizando orden 18 con estado: Entregando
+Actualizando orden 19 con estado: Entregando
+Actualizando orden 20 con estado: Despachando
+Numeros de ordenes 20
+Todas las operaciones completadas. Finalizando
