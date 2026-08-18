@@ -241,4 +241,6 @@ func main() {
 
 	fmt.Printf("Numeros de ordenes %d\n", len(orders))
 	fmt.Print("Todas las operaciones completadas. Finalizando\n")
-    
+
+## Iteraccion 6
+Todas las operaciones completadas. Saliendo
