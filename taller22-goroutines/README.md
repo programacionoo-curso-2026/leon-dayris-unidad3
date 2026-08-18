@@ -228,3 +228,17 @@ Orden 20 Despachando
 ---------------------------------------
 Numeros de ordenes 20
 Todas las operaciones completadas. Finalizando
+
+## Iteraccion 5
+func main() {
+	orders := generateOrders(20)
+
+	processOrders(orders)
+
+	updateOrderStatuses(orders)
+
+	reportOrderStatus(orders)
+
+	fmt.Printf("Numeros de ordenes %d\n", len(orders))
+	fmt.Print("Todas las operaciones completadas. Finalizando\n")
+    
